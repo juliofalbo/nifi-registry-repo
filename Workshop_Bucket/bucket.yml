@@ -1,0 +1,6 @@
+flows:
+  63bee99b-58de-4fa7-9f52-40455220c206: {ver: 1, file: PutJsonIntoPostgres.snapshot,
+    comments: v1, author: anonymous, created: 1592600483203, flowName: PutJsonIntoPostgres,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 16103373-2a9d-4020-872d-66ff9e133d6e
