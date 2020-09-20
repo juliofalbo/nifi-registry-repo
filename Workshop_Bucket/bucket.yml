@@ -2,5 +2,7 @@ flows:
   63bee99b-58de-4fa7-9f52-40455220c206: {ver: 1, file: PutJsonIntoPostgres.snapshot,
     comments: v1, author: anonymous, created: 1592600483203, flowName: PutJsonIntoPostgres,
     flowDesc: ''}
+  072b31bc-6e63-469b-b87c-538aa3eda8b2: {ver: 1, file: SiteToSite_Test.snapshot, comments: '',
+    author: anonymous, created: 1600628889676, flowName: SiteToSite Test, flowDesc: ''}
 layoutVer: 1
 bucketId: 16103373-2a9d-4020-872d-66ff9e133d6e
